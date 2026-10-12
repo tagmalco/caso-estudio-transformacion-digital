@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo-tagmalco.jpeg" alt="Logo de TagMalco" width="180">
+
 # TAGMALCO
 ### CASO DE ESTUDIO · TRANSFORMACIÓN DIGITAL
 
